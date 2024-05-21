@@ -28,15 +28,15 @@ Note:
 
 |             Name              |                                    Website                                    |                                        Source code                                        |
 | :---------------------------: | :---------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
-| `docsify-katex` documentation | [upupming.site/docsify-katex/docs](https://upupming.site/docsify-katex/docs/) | [upupming/docsify-katex/docs](https://github.com/upupming/docsify-katex/tree/master/docs) |
+| `docsify-katex` documentation | [junxnone.github.io/docsify-katex/docs](https://junxnone.github.io/docsify-katex/docs/) | [upupming/docsify-katex/docs](https://github.com/upupming/docsify-katex/tree/master/docs) |
 |           Firebook            |       [yngtodd.github.io/firebook](https://yngtodd.github.io/firebook/)       |                  [yngtodd/firebook](https://github.com/yngtodd/firebook)                  |
 
 If you have an awesome project using `docsify-katex` and want to share it with others, please leave it at [this issue](https://github.com/upupming/docsify-katex/issues/7). I will add it here as soon as possible.
 
 ## LaTeX quick reference
 
-- [Supported functions](https://upupming.site/docsify-katex/docs/#/supported)
-- [Support table](https://upupming.site/docsify-katex/docs/#/support-table)
+- [Supported functions](supported)
+- [Support table](support-table)
 - [Detexify](http://detexify.kirelabs.org/classify.html)
 - [MathJax quick reference on Stack Exchange](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference)
 
